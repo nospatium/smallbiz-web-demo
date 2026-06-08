@@ -4,13 +4,13 @@ This file contains placeholder contacts for the demo project.
 
 ## Departments
 
-Sales: george.spielberg@cedarcrestmotel.com
+Sales: quentin.nolan@amnesoft.com
 
-Customer Support: george.spielberg@cedarcrestmotel.com
+Customer Support: quentin.nolan@amnesoft.com
 
-Vendor Onboarding: george.spielberg@cedarcrestmotel.com
+Vendor Onboarding: quentin.nolan@amnesoft.com
 
-Procurement: george.spielberg@cedarcrestmotel.com
+Procurement: quentin.nolan@amnesoft.com
 
 ## Disclaimer
 
