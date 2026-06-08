@@ -1,0 +1,14 @@
+{
+  "application": {
+    "name": "Small Business Website Template",
+    "environment": "demo"
+  },
+  "contacts": {
+    "sales": "george.spielberg@cedarcrestmotel.com",
+    "support": "george.spielberg@cedarcrestmotel.com",
+    "vendorOnboarding": "george.spielberg@cedarcrestmotel.com"
+  },
+  "notifications": {
+    "contactFormRecipient": "george.spielberg@cedarcrestmotel.com"
+  }
+}
