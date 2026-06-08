@@ -6,9 +6,9 @@ It contains example configuration files, sample support contacts and placeholder
 
 ## Demo contacts
 
-Sales contact: quentin.nolan@amnesoft.com
-Support contact: quentin.nolan@amnesoft.com  
-Vendor onboarding: quentin.nolan@amnesoft.com
+* Sales contact: quentin.nolan@landclean.net
+* Support contact: quentin.nolan@landclean.net
+* Vendor onboarding: quentin.nolan@landclean.net
 
 ## Notes
 
