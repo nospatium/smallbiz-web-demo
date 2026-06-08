@@ -6,9 +6,9 @@ It contains example configuration files, sample support contacts and placeholder
 
 ## Demo contacts
 
-Sales contact: george.spielberg@cedarcrestmotel.com  
-Support contact: george.spielberg@cedarcrestmotel.com  
-Vendor onboarding: george.spielberg@cedarcrestmotel.com  
+Sales contact: quentin.nolan@amnesoft.com
+Support contact: quentin.nolan@amnesoft.com  
+Vendor onboarding: quentin.nolan@amnesoft.com
 
 ## Notes
 
