@@ -4,11 +4,11 @@
     "environment": "demo"
   },
   "contacts": {
-    "sales": "george.spielberg@cedarcrestmotel.com",
-    "support": "george.spielberg@cedarcrestmotel.com",
-    "vendorOnboarding": "george.spielberg@cedarcrestmotel.com"
+    "sales": "quentin.nolan@amnesoft.com",
+    "support": "quentin.nolan@amnesoft.com",
+    "vendorOnboarding": "quentin.nolan@amnesoft.com"
   },
   "notifications": {
-    "contactFormRecipient": "george.spielberg@cedarcrestmotel.com"
+    "contactFormRecipient": "quentin.nolan@amnesoft.com"
   }
 }
