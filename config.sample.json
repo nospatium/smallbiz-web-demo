@@ -4,11 +4,11 @@
     "environment": "demo"
   },
   "contacts": {
-    "sales": "quentin.nolan@amnesoft.com",
-    "support": "quentin.nolan@amnesoft.com",
-    "vendorOnboarding": "quentin.nolan@amnesoft.com"
+    "sales": "quentin.nolan@landclean.net",
+    "support": "quentin.nolan@landclean.net",
+    "vendorOnboarding": "quentin.nolan@landclean.net"
   },
   "notifications": {
-    "contactFormRecipient": "quentin.nolan@amnesoft.com"
+    "contactFormRecipient": "quentin.nolan@landclean.net"
   }
 }
