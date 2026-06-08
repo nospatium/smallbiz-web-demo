@@ -4,12 +4,12 @@ This is a sample vendor onboarding document for the demo website template.
 
 For vendor onboarding questions, contact:
 
-george.spielberg@cedarcrestmotel.com
+quentin.nolan@amnesoft.com
 
 For procurement-related demo enquiries:
 
-george.spielberg@cedarcrestmotel.com
+quentin.nolan@amnesoft.com
 
 For support:
 
-george.spielberg@cedarcrestmotel.com
+quentin.nolan@amnesoft.com
